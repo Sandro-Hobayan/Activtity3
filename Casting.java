@@ -34,5 +34,15 @@ System.out.println(isJavaFun);     // Outputs true     // add booleans
 System.out.println(isFishTasty);   // Outputs false
 
 
+
+
+
+
+
+
+if (20 > 18) {
+  System.out.println("20 is greater than 18");     // adding if else statement
+}
+
   }
 }
