@@ -47,5 +47,11 @@ for (int i = 0; i < 5; i++) {
 
 
 
+
+
+
+String[] cars = {"Volvo", "BMW", "Ford", "Mazda"};     //array
+System.out.println(cars[0]);
+
   }
 }
