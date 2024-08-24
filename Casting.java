@@ -25,5 +25,14 @@ System.out.println(txt.toUpperCase());   // Outputs "HELLO WORLD"    // add stri
 System.out.println(txt.toLowerCase());   // Outputs "hello world"
 
 
+
+
+
+boolean isJavaFun = true;
+boolean isFishTasty = false;
+System.out.println(isJavaFun);     // Outputs true     // add booleans
+System.out.println(isFishTasty);   // Outputs false
+
+
   }
 }
