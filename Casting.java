@@ -19,5 +19,11 @@ int sum3 = sum2 + sum2;     // 800 (400 + 400)
 
 
 
+
+String txt = "Hello World";
+System.out.println(txt.toUpperCase());   // Outputs "HELLO WORLD"    // add strings
+System.out.println(txt.toLowerCase());   // Outputs "hello world"
+
+
   }
 }
