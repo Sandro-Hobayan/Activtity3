@@ -11,7 +11,7 @@ System.out.println(myNum);
 float myFloatNum = 5.99f;    
 char myLetter = 'D';         //datatypes
 boolean myBool = true;       
-String myText = "Hello";     
+String myText = "Hello Sandro";     
 
 
   }
